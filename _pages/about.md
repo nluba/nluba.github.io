@@ -14,8 +14,8 @@ My work integrates quantitative research, econometric methods, and geospatial an
 My interdisciplinary background spans environmental science, natural resource management, urban and regional planning, and geographic information systems (GIS).
 
 
-Contact
+## Contact
 For research inquiries, collaborations, or professional opportunities, please feel free to reach out.
-Email: nilimaislamluba@gmail.com
-Academic Profiles: Google Scholar | ORCID
-Professional Network: LinkedIn
+**Email:** [nilimaislamluba@gmail.com](mailto:nilimaislamluba@gmail.com)
+**Academic Profiles:** [Google Scholar](https://scholar.google.com/citations?user=WZR0vc8AAAAJ) | [ORCID](https://orcid.org/0009-0008-8835-4802)
+**Professional Network:** [LinkedIn](https://www.linkedin.com/in/nil-fiu/)
