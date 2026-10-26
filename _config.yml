@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Nilima Islam Luba | Environmental Social Scientist"
 title_separator          : "-"
 name                     : &name "Nilima Islam Luba"
-description              : &description "Environmental social scientist specializing in climate and disaster resilience, natural resource management, and human-environment systems"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Environmental social scientist specializing in climate and disaster resilience, natural resource management, geospatial analysis, and human-environment systems"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://nluba.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -35,7 +35,6 @@ author:
 
   googlescholar    : "https://scholar.google.com/citations?user=WZR0vc8AAAAJ&hl=en&oi=ao"
   orcid            : "https://orcid.org/0009-0008-8835-4802"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 
 
   # Repositories and software development
@@ -43,12 +42,10 @@ author:
 
   # Social media
 
-  linkedin         : # nil-fiu
+  linkedin         : "nil-fiu"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
