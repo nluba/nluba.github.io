@@ -12,7 +12,6 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Nilima Islam Luba | Environmental Social Scientist"
 title_separator          : "-"
 name                     : &name "Nilima Islam Luba"
-description              : &description "Environmental social scientist specializing in climate and disaster resilience, natural resource management, geospatial analysis, and human-environment systems"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://nluba.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +22,7 @@ repository               : "nluba/nluba.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profile.jpeg"
+  avatar           : "Profile.jpeg.jpeg"
   name             : "Nilima Islam Luba"
   pronouns         : "She/Her"
   bio              : "Environmental social scientist studying climate and disaster resilience, natural resource management, and human-environment systems."
