@@ -6,6 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+.page__content p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+</style>
 
 I am an environmental social scientist with a Ph.D. in Earth System Science from Florida International University (FIU). My research focuses on climate and disaster resilience, socioeconomic vulnerability, natural resource management, and human–environment interactions.
 
