@@ -37,3 +37,15 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* Fix sidebar text getting cut off */
+.author__urls li {
+  white-space: normal;
+  overflow-wrap: break-word;
+}
+
+.author__urls li a,
+.author__urls li span {
+  white-space: normal;
+  overflow-wrap: break-word;
+}
