@@ -9,28 +9,18 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-{% include base_path %}
+<h2>Articles</h2>
+<hr>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<ul>
+  <li>Luba, N.I., Mozumder, P., Meng, S., & Halim, N. (2026). Puerto Rico after Hurricane Maria: lingering household impacts, vulnerabilities, and resilience. npj Environmental Social Sciences, 1, Article 11. https://doi.org/10.1038/s44432-025-00003-z</li>
+  <li>Kirkic, A.P., & Luba, N.I. (2026). Migration Decision Making in MENA: Role of Food Insecurity, Water, and Energy Scarcity. Environmental Development, 101530, https://doi.org/10.1016/j.envdev.2026.101530</li>
+  <li>Luba, N.I., Ahmed, S., & Esraz-Ul-Zannat, M. (2017). Identification of Vulnerable Areas and Communities Based on the Jamuna Riverside Erosion: A Study of Kaijuri Union, Shahjadpur Upazilla, Sirajganj District. 1st International Conference on Disaster Risk Mitigation 2017, Dhaka, Bangladesh.<li>
+  <li>Faysal, M., Bintee, N. Z., Luba, N. I., Das, P. C., & Rahman, M. M. (2018). Assessing Social and Environmental Sustainability of Sonadanga Bus Terminal, Khulna. 4th International Conference on Civil Engineering for Sustainable Development, Khulna, Bangladesh.<li>
+
+
+</ul>
+
 
 <h2>Posters</h2>
 <hr>
